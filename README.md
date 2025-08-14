@@ -1,4 +1,4 @@
-# Browser Console Web Scraping Toolkit
+# Browser Console Web Scraping Toolkit (Amazon Scraping)
 
 A powerful, lightweight JavaScript toolkit for scraping websites directly from the browser console. Extract data from any webpage and export it instantly to JSON, CSV, and Excel formats.
 

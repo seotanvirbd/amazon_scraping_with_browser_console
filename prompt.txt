@@ -1,0 +1,2 @@
+there are many divs like this  which are containing many datas. 
+Give me the js code that i will execute in the browser console to scrape the data

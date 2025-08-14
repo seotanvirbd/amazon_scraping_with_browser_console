@@ -51,6 +51,12 @@ The scraper will automatically export 3 files to your Downloads folder:
 - `data.csv` - CSV format for spreadsheets
 - `data.xlsx` - Excel format
 
+```javascript
+// Export scraped data in all formats
+exportData(products, 'scraped_products');
+// ✅ Downloads: scraped_products.json, scraped_products.csv, scraped_products.xlsx
+```
+
 ## 📊 Usage Examples
 
 ### Amazon Products

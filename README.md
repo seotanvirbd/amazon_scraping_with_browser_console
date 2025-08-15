@@ -40,7 +40,7 @@ exportData(products, 'scraped_products');
 
 // ✅ Downloads: scraped_products.json, scraped_products.csv, scraped_products.xlsx
 ```
-// Here 1 st parameter "products" is a variable which will be changed according to websites and the 2nd parameter 'scraped_products' is the name of the file. You can change it according to your needs
+<mark>⚠️ Here 1st parameter "products" is a variable which will be changed according to websites and the 2nd parameter 'scraped_products' is the name of the file. You can change it according to your needs</mark>
 
 ## 🎯 What You Can Scrape
 

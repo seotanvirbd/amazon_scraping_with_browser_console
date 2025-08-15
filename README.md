@@ -1,4 +1,4 @@
-# Browser Console Web Scraper 🕷️
+# Scrape Any Website with Just Your Browser Console (2025) | Amazon Example + JSON, CSV, Excel 
 
 **Zero-setup web scraping toolkit for absolute beginners!** Extract data from any website using just your browser console - no installations, no coding experience required.
 

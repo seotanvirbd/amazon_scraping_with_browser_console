@@ -33,17 +33,14 @@ document.querySelectorAll('a').forEach(link => {
 
 ```
 
-3. Export Your Data
+### Step 3: Export Your Data
+```
 // Export scraped data in all formats
 exportData(products, 'scraped_products');
-// here 1 st parameter "products" is a variable which will be changed according to websites
-// and the 2nd parameter 'scraped_products' is the name of the file. You can change it according to your needs
-// ✅ Downloads: scraped_products.json, scraped_products.csv, scraped_products.xlsx
-The scraper will automatically export 3 files to your Downloads folder:
 
-data.json - Raw JSON data
-data.csv - CSV format for spreadsheets
-data.xlsx - Excel format
+// ✅ Downloads: scraped_products.json, scraped_products.csv, scraped_products.xlsx
+```
+// Here 1 st parameter "products" is a variable which will be changed according to websites and the 2nd parameter 'scraped_products' is the name of the file. You can change it according to your needs
 
 ## 🎯 What You Can Scrape
 

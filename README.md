@@ -66,7 +66,7 @@ exportData(data, 'scraped-data');
 
 ## 🎬 Tutorial Video
 
-Watch the complete step-by-step tutorial: [YouTube Video Link]
+Watch the complete step-by-step tutorial: [https://youtu.be/Jqp7GOzF6hU]
 
 ## 💡 Pro Tips
 
